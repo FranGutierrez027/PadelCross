@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+#header{
+	height: 70px;
+	background-color: black;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	z-index: 100;
+	
+}
+#header .nav{
+	list-style: none;
+}
+#header .nav li{
+	display: inline-block;
+	margin: 30px 250px;
+	font-size: 20px;
+	font-family: 'Shippori Antique B1', sans-serif;
+}
+#header .nav a{
+	color: orange;
+	text-decoration: none;
+}
+#cuerpo{
+	height: 70vh;
+	background-image: url(../IMG/banner1.jpg);
+	background-position: center;
+	background-size: cover;
+}
+#ultimaParte{
+	background-color: orange;
+	height: 80vh;
+	margin-bottom: 0px;
+	background-size: cover;
+}
+.fotos {
+	position: relative;
+	width: 31%;
+	margin: 50px 1%;
+	display: inline-block;
+
+}#footer{
+	text-align: right	;
+	font-size: 30px;
+	margin-top: 0px;
+	background-color: orange;
+	font-family: 'Shippori Antique B1', sans-serif;
+}
+#palasGarantia{
+	background-color: orange;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 69px;
+	width: 100%;
+	font-family: 'Shippori Antique B1', sans-serif;
+}#footer2{
+	text-align: right;
+	font-size: 30px;
+	margin-top: 0px;
+	background-color: orange;
+	height: 100px;
+	margin-bottom: 0px;
+	text-align: ;
+	font-family: 'Shippori Antique B1', sans-serif;
+
+}
+.bolsos{
+	background-color: orange;
+	background-size: cover;
+	margin-top: 69px;
+	width: 100%;
+
+
+}
+.fotos2 {
+	position: relative;
+	width: 31%;
+	margin: 80px 1%;
+	display: inline-block;
+}
+#ultimaParte2{
+	background-color: orange;
+	height: 100vh;
+	margin-bottom: 0px;
+	background-size: cover;
+}
+#footer3{
+	padding-top: 50px;
+	text-align: right;
+	font-size: 30px;
+	margin-top: 0px;
+	background-color: orange;
+	height: 20px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: ;
+	background-size: cover;
+	font-family: 'Shippori Antique B1', sans-serif;
+
+}
+#encuesta{
+	font-size: 15px;
+	font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.padre{
+	width: 800px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	background-color: orange;
+}
+.grilla{
+	width: 50%;
+	padding: 5px;
+	box-sizing: border-box;
+
+}
+.grilla img{
+	border: 1px solid;
+	display: block;
+	width: 100%;
+}
+#orange{
+	background-color: orange;
+}
+.fondoorange{
+	background-color: orange;
+}
+#orangeback{
+	background-color: orange;
+}
+.maps{
+	background-color: orange;
+	background-color: orange;
+	padding: 20px;
+}
+.tabla{
+	padding: 50px;
+	padding-top: 150px;
+	background-color: orange;
+}
+.fondonaranja{
+	background-color: orange;
+}
